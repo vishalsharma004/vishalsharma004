@@ -1,0 +1,21 @@
+<!doctype html>
+<html="en">
+  <head>
+    <met charset="UTF-8">
+      <meta http-equiv="X-UA-COMPATIBLE content="IE=edge">
+      <meta name ="viewport" content="width=devise=width,inital-scale=1.0">
+                                                                          <titlle> singlet page product design</tittle>
+                                                                          <link rel="stylesheet" href="./css/style.css">
+                                                                          </head>
+                                                                          <body>
+                                                                                <section class="main-wrap">
+                                                                                                          <div class="product">
+                                                                                                          <div class="image-gallery">
+                                                                                                                                    </div>
+                                                                                                                        <div class="product"-details>
+                                                                            <div class="details"> </div>
+                                                                                                </div>
+                                                                                                </section>
+                         <script src="./js/app.js"></script>                                                                       
+                                                                          </body>
+                                                                          </html>
